@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live URL
-LIVE URL: https://loquacious-gingersnap-764b84.netlify.app/
+LIVE URL: https://digitalmarketingwebsite-reactjs.netlify.app/
 
 ## Available Scripts
 
